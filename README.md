@@ -1,1 +1,1 @@
-My Calculator
+<h1>My Calculator</h1>
